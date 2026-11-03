@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Builds the two-configuration close: unsell what they don't need (out loud, with the reason), prescribe what their constraint requires, then an A/B choice with one recommendation.",
+  "keywords": [
+    "close",
+    "kairos",
+    "menu",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-menu-close",
+  "repository": "https://github.com/baselam88/kairos-menu-close-plugin",
+  "version": "0.1.0"
+}
